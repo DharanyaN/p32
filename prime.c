@@ -16,6 +16,6 @@ printf("given no is prime");
 }
 else
 {
-"given no is not prime");
+printf("given no is not prime");
 }
 }
